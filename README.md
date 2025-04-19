@@ -4,8 +4,11 @@ Refer to the Notes and steps in the code
 
 
 Make sure to add the correct file paths and that you have all the needed libraries installed in your virtual enviroment where you are running the code.
+Also make sure you have the correct version of everything or else things will get messy
 
-Links
+Links:
 https://github.com/wkentaro/labelme
-https://albumentations.ai/docs/gettin...
-https://www.tensorflow.org/api_docs/p...
+
+albumentations.ai/docs/getting_started/bounding_boxes_augmentation/
+
+https://www.tensorflow.org/api_docs/python/tf/data/Dataset#batch
